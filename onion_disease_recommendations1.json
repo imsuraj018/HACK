@@ -1,0 +1,142 @@
+{
+    "Rust": {
+        "English": {
+            "Spray": "Mancozeb 75% WP – Effective against fungal diseases.",
+            "Fertilizer": "Potassium-rich fertilizers like Muriate of Potash (MOP) to enhance plant resistance."
+        },
+        "Marathi": {
+            "Spray": "मँकॉझेब ७५% WP – बुरशीजन्य रोगांवर प्रभावी.",
+            "Fertilizer": "पोटॅशियमयुक्त खत जसे की म्युरिएट ऑफ पोटॅश (MOP) – वनस्पतींचा प्रतिकारशक्ती वाढवण्यासाठी."
+        },
+        "Hindi": {
+            "Spray": "मांकोजेब ७५% WP – फंगल रोगों के लिए प्रभावी।",
+            "Fertilizer": "पोटेशियम युक्त खाद जैसे म्युरिएट ऑफ पोटाश (MOP) – पौधों की रोग प्रतिरोधक क्षमता बढ़ाने के लिए।"
+        }
+    },
+    "Virosis-D": {
+        "English": {
+            "Spray": "Imidacloprid 17.8% SL – Controls aphids, the primary vectors.",
+            "Fertilizer": "Balanced NPK fertilizers to support overall plant health."
+        },
+        "Marathi": {
+            "Spray": "इमिडाक्लोप्रिड १७.८% SL – मुख्य वाहक असलेल्या अळींवर नियंत्रण.",
+            "Fertilizer": "संतुलित NPK खत – वनस्पतींच्या आरोग्यासाठी."
+        },
+        "Hindi": {
+            "Spray": "इमिडाक्लोप्रिड १७.८% SL – मुख्य वाहक एफिड्स पर नियंत्रण।",
+            "Fertilizer": "संतुलित NPK खाद – पौधों के समग्र स्वास्थ्य के लिए।"
+        }
+    },
+    "Healthy leaves": {
+        "English": {
+            "Spray": "No action needed.",
+            "Fertilizer": "Regular application of NPK fertilizers to maintain soil fertility."
+        },
+        "Marathi": {
+            "Spray": "काही करण्याची आवश्यकता नाही.",
+            "Fertilizer": "मातीची सुपीकता राखण्यासाठी नियमित NPK खताचा वापर."
+        },
+        "Hindi": {
+            "Spray": "कोई कार्यवाही आवश्यक नहीं।",
+            "Fertilizer": "मृदा की उर्वरता बनाए रखने के लिए नियमित NPK खाद का प्रयोग।"
+        }
+    },
+    "Purple blotch": {
+        "English": {
+            "Spray": "Azoxystrobin 18.2% + Difenoconazole 11.4% SC – Combines systemic and contact action.",
+            "Fertilizer": "Phosphorus-rich fertilizers to strengthen plant tissues."
+        },
+        "Marathi": {
+            "Spray": "अझॉक्सिस्ट्रोबिन १८.२% + डिफेनोकॉनाझोल ११.४% SC – सिस्टेमिक आणि संपर्क क्रियांचा संयोजन.",
+            "Fertilizer": "फॉस्फरसयुक्त खत – वनस्पतींची संरचना मजबूत करण्यासाठी."
+        },
+        "Hindi": {
+            "Spray": "अज़ॉक्सिस्ट्रोबिन १८.२% + डिफेनोकॉनाज़ोल ११.४% SC – सिस्टमिक और संपर्क क्रिया का संयोजन।",
+            "Fertilizer": "फॉस्फोरस युक्त खाद – पौधों की संरचना मजबूत करने के लिए।"
+        }
+    },
+    "Bulb_blight-D": {
+        "English": {
+            "Spray": "Carbendazim 50% WP – Effective against various fungal pathogens.",
+            "Fertilizer": "Phosphorus-based fertilizers like Single Super Phosphate (SSP) to promote bulb development."
+        },
+        "Marathi": {
+            "Spray": "कार्बेन्डाझिम ५०% WP – विविध बुरशीजन्य रोगांवर प्रभावी.",
+            "Fertilizer": "फॉस्फरस आधारित खत जसे की सिंगल सुपर फॉस्फेट (SSP) – कोंब डेव्हलपमेंटसाठी."
+        },
+        "Hindi": {
+            "Spray": "कार्बेन्डाज़िम ५०% WP – विभिन्न फंगल रोगों के लिए प्रभावी।",
+            "Fertilizer": "फॉस्फोरस आधारित खाद जैसे सिंगल सुपर फॉस्फेट (SSP) – बल्ब के विकास के लिए।"
+        }
+    },
+    "Iris yellow virus_augment": {
+        "English": {
+            "Spray": "Thiamethoxam 25% WG – Controls sucking pests.",
+            "Fertilizer": "Balanced NPK fertilizers to support plant growth."
+        },
+        "Marathi": {
+            "Spray": "थायामेथॉक्सॅम २५% WG – सुकणार्या किडीवर नियंत्रण.",
+            "Fertilizer": "संतुलित NPK खत – वनस्पतींच्या वाढीसाठी."
+        },
+        "Hindi": {
+            "Spray": "थायामेथॉक्साम २५% WG – चूसने वाले कीटों पर नियंत्रण।",
+            "Fertilizer": "संतुलित NPK खाद – पौधों की वृद्धि के लिए।"
+        }
+    },
+    "Alternaria_D": {
+        "English": {
+            "Spray": "Chlorothalonil 75% WP – Broad-spectrum fungicide.",
+            "Fertilizer": "Potassium-rich fertilizers to enhance disease resistance."
+        },
+        "Marathi": {
+            "Spray": "क्लोरोथॅलोनिल ७५% WP – सर्वांगीण बुरशीजन्य नियंत्रण.",
+            "Fertilizer": "पोटॅशियमयुक्त खत – रोग प्रतिकारशक्ती वाढवण्यासाठी."
+        },
+        "Hindi": {
+            "Spray": "क्लोरोथैलोनिल ७५% WP – व्यापक कवक नियंत्रण।",
+            "Fertilizer": "पोटेशियम युक्त खाद – रोग प्रतिरोधक क्षमता बढ़ाने के लिए।"
+        }
+    },
+    "Fusarium-D": {
+        "English": {
+            "Spray": "Tebuconazole 25.9% EC – Effective against Fusarium species.",
+            "Fertilizer": "Phosphorus-based fertilizers to strengthen root systems."
+        },
+        "Marathi": {
+            "Spray": "टेबुकोनाझोल २५.९% EC – फ्युजारियम जातींसाठी प्रभावी.",
+            "Fertilizer": "फॉस्फरस आधारित खत – मुळांचे सिस्टम मजबूत करण्यासाठी."
+        },
+        "Hindi": {
+            "Spray": "टेबुकोनाज़ोल २५.९% EC – फ्यूसेरियम प्रजातियों के लिए प्रभावी।",
+            "Fertilizer": "फॉस्फोरस आधारित खाद – जड़ प्रणाली को मजबूत करने के लिए।"
+        }
+    },
+    "Caterpillar-P": {
+        "English": {
+            "Spray": "Bacillus thuringiensis (Bt) – Biological control for caterpillars.",
+            "Fertilizer": "Nitrogen-rich fertilizers to promote healthy growth."
+        },
+        "Marathi": {
+            "Spray": "बॅसिलस थुरिंगिअन्सिस (Bt) – अळींसाठी जैविक नियंत्रण.",
+            "Fertilizer": "नायट्रोजनयुक्त खत – आरोग्यपूर्ण वाढीसाठी."
+        },
+        "Hindi": {
+            "Spray": "बैसिलस थुरिंगियन्सिस (Bt) – कैटरपिलर के लिए जैविक नियंत्रण।",
+            "Fertilizer": "नाइट्रोजन युक्त खाद – स्वस्थ वृद्धि के लिए।"
+        }
+    },
+    "stemphylium Leaf Blight": {
+        "English": {
+            "Spray": "Propiconazole 25% EC – Effective against Stemphylium species.",
+            "Fertilizer": "Potassium-rich fertilizers to enhance plant resilience."
+        },
+        "Marathi": {
+            "Spray": "प्रोपिकोनाझोल २५% EC – स्टेम्फिलियम जातींसाठी प्रभावी.",
+            "Fertilizer": "पोटॅशियमयुक्त खत – वनस्पतींची प्रतिकारशक्ती वाढवण्यासाठी."
+        },
+        "Hindi": {
+            "Spray": "प्रोपिकोनाज़ोल २५% EC – स्टेम्फिलियम प्रजातियों के लिए प्रभावी।",
+            "Fertilizer": "पोटेशियम युक्त खाद – पौधों की मजबूती बढ़ाने के लिए।"
+        }
+    }
+}

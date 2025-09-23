@@ -1,0 +1,15 @@
+
+tensorflow>=2.20.0
+keras>=2.13.1
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+pandas>=2.0.3
+matplotlib>=3.8.0
+seaborn>=0.12.2
+json5>=0.9.14
+
+# For GPU support (if using CUDA)
+# tensorflow-gpu>=2.13.0
+
+

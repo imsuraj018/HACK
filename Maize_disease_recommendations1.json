@@ -1,0 +1,115 @@
+{
+    "Healthy": {
+        "en": {
+            "description": "The maize crop is healthy. No disease detected.",
+            "recommendation": [
+                "Continue regular irrigation and nutrient management.",
+                "Monitor crops weekly for any signs of disease.",
+                "Maintain proper spacing for airflow."
+            ]
+        },
+        "hi": {
+            "description": "मक्का की फसल स्वस्थ है। कोई बीमारी नहीं पाई गई।",
+            "recommendation": [
+                "नियमित सिंचाई और पोषण प्रबंधन जारी रखें।",
+                "किसी भी बीमारी के लक्षणों के लिए साप्ताहिक निगरानी करें।",
+                "हवा के प्रवाह के लिए उचित दूरी बनाए रखें।"
+            ]
+        },
+        "mr": {
+            "description": "मका पिक निरोगी आहे. कोणताही आजार आढळला नाही.",
+            "recommendation": [
+                "नियमित पाणी देणे आणि पोषण व्यवस्थापन सुरू ठेवा.",
+                "कोणत्याही आजाराची लक्षणे तपासण्यासाठी साप्ताहिक निरीक्षण करा.",
+                "हवेच्या वहनासाठी योग्य अंतर ठेवा."
+            ]
+        }
+    },
+    "Maize_Gray_Leaf_Spot": {
+        "en": {
+            "description": "Gray leaf spot is a fungal disease caused by Cercospora zeae-maydis.",
+            "recommendation": [
+                "Use resistant maize varieties when possible.",
+                "Rotate with non-host crops to break the disease cycle.",
+                "Apply fungicides such as mancozeb or triazoles if disease pressure is high.",
+                "Remove and destroy infected crop debris."
+            ]
+        },
+        "hi": {
+            "description": "ग्रे लीफ स्पॉट एक फफूंद रोग है जो Cercospora zeae-maydis के कारण होता है।",
+            "recommendation": [
+                "संभव हो तो रोग प्रतिरोधी मक्का किस्में प्रयोग करें।",
+                "बीमारी के चक्र को तोड़ने के लिए गैर-मेजबान फसलों की फसल चक्रीकरण करें।",
+                "यदि रोग का दबाव अधिक है तो मैंकोजेब या ट्रायजोल जैसे फफूंदनाशक का छिड़काव करें।",
+                "संक्रमित फसल अवशेषों को हटाकर नष्ट कर दें।"
+            ]
+        },
+        "mr": {
+            "description": "ग्रे लीफ स्पॉट हा *Cercospora zeae-maydis* या बुरशीमुळे होणारा रोग आहे.",
+            "recommendation": [
+                "शक्य असल्यास रोगप्रतिरोधक मका जाती वापरा.",
+                "रोगाचा चक्र तोडण्यासाठी इतर पिकांसोबत फेरपालट करा.",
+                "रोगाचा प्रादुर्भाव जास्त असल्यास मॅन्कोझेब किंवा ट्रायझोलसारखी बुरशीनाशके फवारणी करा.",
+                "संक्रमित पिकांचे अवशेष काढून टाका व नष्ट करा."
+            ]
+        }
+    },
+    "Maize_Common_Rust": {
+        "en": {
+            "description": "Common rust is caused by Puccinia sorghi fungus.",
+            "recommendation": [
+                "Plant resistant hybrids to minimize infection.",
+                "Monitor the crop regularly, especially in humid conditions.",
+                "Fungicide application may be needed if infection is severe.",
+                "Avoid dense planting that increases humidity."
+            ]
+        },
+        "hi": {
+            "description": "कॉमन रस्ट Puccinia sorghi फफूंद के कारण होता है।",
+            "recommendation": [
+                "संक्रमण को कम करने के लिए रोग प्रतिरोधक संकर किस्में लगाएँ।",
+                "फसल की नियमित निगरानी करें, विशेष रूप से आर्द्र परिस्थितियों में।",
+                "संक्रमण गंभीर होने पर फफूंदनाशक का प्रयोग करें।",
+                "घनी बुवाई से बचें जिससे नमी बढ़ती है।"
+            ]
+        },
+        "mr": {
+            "description": "कॉमन रस्ट हा *Puccinia sorghi* या बुरशीमुळे होतो.",
+            "recommendation": [
+                "संक्रमण कमी करण्यासाठी रोगप्रतिरोधक संकरित जाती लावा.",
+                "पिकाचे नियमित निरीक्षण करा, विशेषतः दमट हवामानात.",
+                "संक्रमण जास्त असल्यास बुरशीनाशकांचा वापर करा.",
+                "आर्द्रता वाढेल अशी दाट पेरणी टाळा."
+            ]
+        }
+    },
+    "Maize_Northern_Leaf_Blight": {
+        "en": {
+            "description": "Northern leaf blight is caused by Exserohilum turcicum fungus.",
+            "recommendation": [
+                "Choose resistant maize varieties.",
+                "Practice crop rotation with non-cereal crops.",
+                "Apply recommended fungicides at the early stage of infection.",
+                "Avoid overhead irrigation to reduce leaf wetness."
+            ]
+        },
+        "hi": {
+            "description": "नॉर्दर्न लीफ ब्लाइट Exserohilum turcicum फफूंद के कारण होता है।",
+            "recommendation": [
+                "रोग प्रतिरोधक मक्का किस्में चुनें।",
+                "गैर-अनाज फसलों के साथ फसल चक्रीकरण करें।",
+                "संक्रमण के शुरुआती चरण में फफूंदनाशक का छिड़काव करें।",
+                "पत्तों की नमी कम करने के लिए ऊपर से सिंचाई से बचें।"
+            ]
+        },
+        "mr": {
+            "description": "नॉर्दर्न लीफ ब्लाईट हा *Exserohilum turcicum* या बुरशीमुळे होतो.",
+            "recommendation": [
+                "रोगप्रतिरोधक मका जाती निवडा.",
+                "धान्येतर पिकांसोबत फेरपालट करा.",
+                "संक्रमणाच्या सुरुवातीस शिफारस केलेली बुरशीनाशके फवारणी करा.",
+                "पानांची ओलावा कमी करण्यासाठी वरून पाणी देणे टाळा."
+            ]
+        }
+    }
+}
